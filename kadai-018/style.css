@@ -1,0 +1,11 @@
+#top {
+    width: 800px;
+    background-color: #dcc9f4;
+    text-align: center;
+
+}
+.top-child {
+    display: inline;
+    width: 20rem;
+    background-color:#ffd9df ;
+}
