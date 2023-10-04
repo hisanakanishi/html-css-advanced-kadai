@@ -1,7 +1,0 @@
-c:\User\hinak\desktop\ mkdir git_challenge
-c:\User\hinak\disektop\cd git_challenge
-git init
-git add git_challenge
-git commit -m "hello_world.txtを追加"
-git add get_challenge
-git commit -m "日本語訳を追記"
