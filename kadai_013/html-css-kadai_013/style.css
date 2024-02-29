@@ -58,6 +58,14 @@ PC用のスタイル
   #nav-pc>a:active {
     color: #0d0d0d;
   }
+
+  /* スマートフォン用のハンバーガーメニュー等を非表示にする */
+  #menu-sp {
+    display: none;
+  }
+  #nav-sp {
+    display: nane;
+  }
 }
 
 /*=====================
@@ -118,11 +126,5 @@ PC用のスタイル
     background-image: url("images/arrow.png");
     background-repeat: no-repeat;
     background-position: right top;
-  }
-  #menu-sp {
-    display: none;
-  }
-  #nav-sp {
-    display: none;
   }
 } 
